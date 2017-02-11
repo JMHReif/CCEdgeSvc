@@ -1,0 +1,7 @@
+---
+    applications:
+      - name: edgesvcbp
+        path: target/edgesvc-0.0.1-SNAPSHOT.jar
+        memory: 1G
+        env:
+          QUOTESVC_URI: http://quotesvc.local.pcfdev.io
