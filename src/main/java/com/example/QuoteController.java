@@ -10,6 +10,7 @@ import java.util.List;
 
 /**
  * Created by markheckler on 12/17/16.
+ * Updated by jmhreif on 09/14/17.
  */
 @RestController
 public class QuoteController {
@@ -24,7 +25,7 @@ public class QuoteController {
 
     @GetMapping("/test")
     public String getTest() {
-        return "This is a test, it is only a test.";
+        return "Testing. One, two, three.";
     }
 
     @GetMapping("/quote")

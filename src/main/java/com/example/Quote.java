@@ -2,6 +2,7 @@ package com.example;
 
 /**
  * Created by markheckler on 12/17/16.
+ * Updated by jmhreif on 09/14/17.
  */
 public class Quote {
     private Long id;
