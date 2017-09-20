@@ -1,4 +1,4 @@
-package com.example;
+package com.example.edgesvc;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

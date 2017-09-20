@@ -1,4 +1,4 @@
-package com.example;
+package com.example.edgesvc;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
